@@ -66,3 +66,75 @@ Open Source Contributions.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sanjeebdas1979&theme=github-dark-blue&hide_border=true" />
 </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=sanjeebdas1979&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+       alt="Sanjeeb Das GitHub Stats" />
+
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeebdas1979&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img
+       src="https://streak-stats.demolab.com?user=sanjeebdas1979&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img
+       src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeebdas1979&theme=tokyo-night&hide_border=true&area=true"
+       width="100%"
+       alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+       src="https://github-profile-trophy.vercel.app/?username=sanjeebdas1979&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+       alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/sanjeebdas1979/sanjeebdas1979/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/sanjeebdas1979/sanjeebdas1979/output/github-contribution-grid-snake.svg" />
+    <img
+         src="https://raw.githubusercontent.com/sanjeebdas1979/sanjeebdas1979/output/github-contribution-grid-snake.svg"
+         alt="Contribution Snake Animation" />
+  </picture>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img
+       src="https://komarev.com/ghpvc/?username=sanjeebdas1979&label=Profile%20Visitors&color=0052ff&style=for-the-badge"
+       alt="Profile Visitor Counter" />
+</p>
+
+---
+
+<p align="center">
+  💙 Made by Sanjeeb Das • Building the Onchain Future
+</p>
