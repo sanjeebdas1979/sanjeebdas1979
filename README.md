@@ -12,7 +12,9 @@ Building Consumer Applications on Base • Arc • Open Source
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Building+on+Base;Building+on+Arc;Open+Source+Contributor;Always+Learning+Something+New)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Full+Stack+Web3+Developer;Building+on+Base;Building+on+Arc;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
 
 </p>
 
