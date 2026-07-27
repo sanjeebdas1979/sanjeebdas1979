@@ -52,3 +52,15 @@ Open Source Contributions.
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,tailwind,solidity,rust,git,github,docker,vscode"/>
 
 </p>
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjeebdas1979&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeebdas1979&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjeebdas1979&theme=github-dark-blue&hide_border=true" />
+</p>
