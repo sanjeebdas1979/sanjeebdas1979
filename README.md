@@ -195,9 +195,15 @@ Studying Rialo architecture, examples, documentation and open-source contributio
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/sanjeebdas1979">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://x.com/SanjeebDas44977">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<a href="https://github.com/sanjeebdas1979">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </p>
 
 ---
